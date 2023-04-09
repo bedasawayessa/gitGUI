@@ -1,0 +1,16 @@
+How to create and clone respositary from git GUI app
+
+step 1:
+	download and install git software
+step 2:
+	open your git GUI
+step 3:
+	select clone from already exists respositary
+step 4:
+	Source Location: copy your HTTPS link from your github website and paste it.
+	Target Directory: write your Local location where you store. <write by yourself>
+
+step 5:
+	click 'Clone'
+
+==== you done ====
